@@ -111,6 +111,9 @@ crew.kickoff(
 
 ### Output:
 - A finalized legal analysis document saved to `Legal Research\md_files\legal_analysis.md`.
+## Demo
+![Untitled video - Made with Clipchamp (4) (1)](https://github.com/user-attachments/assets/ca655b0c-1f93-4dcd-9207-5f0cba0a5fbd)
+
 
 ---
 
